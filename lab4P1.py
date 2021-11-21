@@ -55,7 +55,7 @@ def decrypt(text, key):
  
  
 #check the above function
-text = "nigga love an event"
+text = "secret"
 key = 3
 choice = 'encrypt'
 
