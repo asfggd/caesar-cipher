@@ -49,7 +49,7 @@ def decrypt(text, key):
             result += char
     #display
     for i in range(len(result)):
-            print('Unencrypted letter: ', text[i], '| Encrypted to letter: ', result[i])
+            print('Encrypted letter: ', text[i], '| Unencrypted to letter: ', result[i])
     print(result)
         
  
